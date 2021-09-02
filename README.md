@@ -26,4 +26,4 @@ About me:
 
 You can reach me with wechat: wh1t3p1g
 
-![wh1t3p1g's github stats](https://github-readme-stats.vercel.app/api?username=wh1t3p1g&show_icons=true&theme=radical) 
+![wh1t3p1g's github stats](https://github-readme-stats.vercel.app/api?username=wh1t3p1g&show_icons=true&theme=default) 
