@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 About me:
 
-    Program analysis enthusiasts😄
+    Program analysis enthusiasts 😄
     
-    Research on Java code review (semi-auto and manual) and redteam🤔
+    Research on Java code review (semi-auto and manual) and redteam 🤔
 
-    Former ctfer at NeSE🍵
+    Former ctfer at NeSE 🍵
 
-    Currently work on MYbank🐜
+    Currently work on MYbank 🐜
 
 You can reach me with wechat: wh1t3p1g
 
